@@ -9,7 +9,5 @@
 int main(){
 
 
-
-printf("hello git");
 printf("Does this thing work?");
-}
+\\ new line dude!! }
