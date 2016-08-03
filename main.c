@@ -4,5 +4,5 @@
 
 int main(){
 
-printf("hello git");
+printf(%d "go to hell");
 }
